@@ -21,4 +21,3 @@ This will attempt to enable the three services and set the LanmanServer startup 
 `SharpSMBTakeover.exe /check`
 This will check if the three services are running, indicating that TCP port 445 (SMB) should be working.
 
-

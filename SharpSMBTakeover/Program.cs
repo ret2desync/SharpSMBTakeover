@@ -2,7 +2,7 @@
 
 namespace SharpSMBTakeover
 {
-    internal class Program
+    public class Program
     {
 
         enum Actions
@@ -13,7 +13,7 @@ namespace SharpSMBTakeover
             Check
          
         }
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("\t SharpSMBTakeover");
             Console.WriteLine("\t @ret2desync (Original work by @zyn3rgy)");
